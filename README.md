@@ -7,6 +7,8 @@ center-cropped and laid out in a grid you can preview and export.
 Built with **Vite + React + TypeScript**. No backend, no database — everything
 runs in your browser, and your photos never leave your machine.
 
+<img width="1906" height="915" alt="App" src="https://github.com/user-attachments/assets/3f2c172a-d67b-4a44-977c-3fab22417d94" />
+
 ## How it works
 
 1. **Add photos** — drag-and-drop or click _Add photos_ (select hundreds at once).
