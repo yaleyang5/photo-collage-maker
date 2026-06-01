@@ -362,7 +362,7 @@ export default function App() {
           )}
           {loading && (
             <div className="progress">
-              Loading {loading.done} / {loading.total}…
+              Loading {loading.done} / {loading.total}...
             </div>
           )}
         </section>
@@ -498,7 +498,7 @@ export default function App() {
             onClick={exportCollage}
           >
             {exporting
-              ? `Rendering ${exporting.done} / ${exporting.total}…`
+              ? `Rendering ${exporting.done} / ${exporting.total}...`
               : 'Export collage'}
           </button>
         </section>
