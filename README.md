@@ -1,4 +1,6 @@
-# 💞 Photo Collage Maker
+# Photo Collage Maker
+
+**Live at [photo-collage-creator.vercel.app](https://photo-collage-creator.vercel.app/)**
 
 A tiny, front-end-only tool that tiles a pile of photos into a single
 high-resolution collage. Drop in hundreds of photos, each one gets
@@ -6,8 +8,6 @@ center-cropped and laid out in a grid you can preview and export.
 
 Built with **Vite + React + TypeScript**. No backend, no database — everything
 runs in your browser, and your photos never leave your machine.
-
-**🔗 Live app: [photo-collage-creator.vercel.app](https://photo-collage-creator.vercel.app/)**
 
 <img width="1906" height="915" alt="App" src="https://github.com/user-attachments/assets/3f2c172a-d67b-4a44-977c-3fab22417d94" />
 
